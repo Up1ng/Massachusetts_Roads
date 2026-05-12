@@ -19,9 +19,6 @@ dataset2_balanced/
 .idea/
 .vscode/
 
-# Claude Code
-.claude/
-
 # Python
 __pycache__/
 *.pyc
