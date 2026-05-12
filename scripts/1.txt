@@ -1,0 +1,12 @@
+  - лучший финальный вывод:
+      - val_dice_at_0.50 = 0.6703
+      - best_threshold = 0.35
+      - threshold_val_dice = 0.6920
+
+  Последние эпохи:
+
+  - epoch 16: train_loss=0.0853, val_loss=0.1084, val_dice=0.6670
+  - epoch 17: train_loss=0.0853, val_loss=0.1084, val_dice=0.6651
+  - epoch 18: train_loss=0.0844, val_loss=0.1083, val_dice=0.6673
+  - epoch 19: train_loss=0.0854, val_loss=0.1081, val_dice=0.6685
+  - epoch 20: train_loss=0.0842, val_loss=0.1081, val_dice=0.6703

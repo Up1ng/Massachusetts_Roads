@@ -1,0 +1,36 @@
+# Datasets
+dataset/
+dataset2/
+dataset2_balanced/
+*.tar
+*.tar.gz
+*.zip
+
+# TIFF images
+*.tiff
+*.tif
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# IDE
+.idea/
+.vscode/
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
